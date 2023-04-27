@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git_project\\Csharp\\NewCsharp11\\NewCsharp11\\NewCsharp11.csproj",
+      "projectUniqueName": "D:\\Git_project\\Csharp11\\NewCsharp11\\NewCsharp11\\NewCsharp11.csproj",
       "projectName": "NewCsharp11",
-      "projectPath": "D:\\Git_project\\Csharp\\NewCsharp11\\NewCsharp11\\NewCsharp11.csproj",
+      "projectPath": "D:\\Git_project\\Csharp11\\NewCsharp11\\NewCsharp11\\NewCsharp11.csproj",
       "packagesPath": "C:\\Users\\Bahare Smaili\\.nuget\\packages\\",
-      "outputPath": "D:\\Git_project\\Csharp\\NewCsharp11\\NewCsharp11\\obj\\",
+      "outputPath": "D:\\Git_project\\Csharp11\\NewCsharp11\\NewCsharp11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
